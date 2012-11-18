@@ -1,0 +1,21 @@
+{
+    "name": "sqlGenerator",
+    "version": "0.0.1",
+    "author": "Axel Hernández Ferrera <axelhzf@gmail.com>",
+    "description": "SqlGenerator from 12meses12katas november",
+    "scripts": {
+        "test": "jasmine-node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/axelhzf/"
+    },
+    "dependencies" : {
+        "underscore"   :  "*",
+        "jasmine-node" :  "*"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.6"
+    }
+}

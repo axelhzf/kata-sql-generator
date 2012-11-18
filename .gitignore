@@ -1,0 +1,4 @@
+.idea
+atlassian*
+*.iml
+node_modules
